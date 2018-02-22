@@ -1,9 +1,9 @@
 ##  C# Variables
 ---
-###“Variables” are simply storage locations for data. You can place data into them and retrieve their contents as part of a C# expression. The interpretation of the data in a variable is controlled through “Types”.
+### “Variables” are simply storage locations for data. You can place data into them and retrieve their contents as part of a C# expression. The interpretation of the data in a variable is controlled through “Types”.
 
 
-###C# is strongly, and  statically-typed language meaning every variable has a type at compile time, and once type is set it cannot change, but its value can be changed.
+### C# is strongly, and  statically-typed language meaning every variable has a type at compile time, and once type is set it cannot change, but its value can be changed.
 ###C# also allows **explicit** typing of any variable.
 ```
 int myInt = 1;
@@ -15,7 +15,7 @@ double myDouble = 1.75;
 
 ```
 
-###Type Inference is where you don't have to always explicit specify a type, let complier try to understand the type if variable automatically.
+### Type Inference is where you don't have to always explicit specify a type, let complier try to understand the type if variable automatically.
 
 ###The keyword _var_ is used to infer the type at compile time.
 
@@ -112,4 +112,4 @@ bool? isBoolean = true;
 		string myString = "Hello World";
 		myString = null;
 ```
-[Next Lesson 1](./Lesson-2.md)
+[Next Lesson 2](./Lesson-2.md)
