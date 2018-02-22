@@ -1,4 +1,4 @@
-## C# Variables
+##  C# Variables
 ---
 ###“Variables” are simply storage locations for data. You can place data into them and retrieve their contents as part of a C# expression. The interpretation of the data in a variable is controlled through “Types”.
 
