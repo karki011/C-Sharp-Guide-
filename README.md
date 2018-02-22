@@ -3,7 +3,7 @@
 ## DATA in all programing languages can be broken down in some form:
 * STRINGS,
 * COLLECTION,
-* BJECTS FORM
+* OBJECTS FORM
 ---
 ## What is OOP?
 #### OOP stands for "Object-Oriented Programming". It is a Programming methodology based on objects, instead of just functions and procedures. In other words, it’s a programming style which is concepts of class, object and various other concepts like Inheritance, Polymorphism, Abstraction, Encapsulation, etc. There are four principles of OOP:
