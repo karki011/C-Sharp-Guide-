@@ -100,4 +100,4 @@ foreach (var email in emails)
 ```
 ---
 
-[Next Lesson 5](./Lesson-5.md)
+[Next Lesson 5: Classes](./Lesson-5.md)

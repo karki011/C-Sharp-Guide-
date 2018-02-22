@@ -6,6 +6,7 @@
 * A class keyword is a _class_.
 * A class defines a type of object, but it is not an object itself.
 * Class is noun in your solution.
+* classes support inheritance, a fundamental characteristic of object-oriented programming
 
 
 ```
@@ -123,4 +124,4 @@ public class Animal
 }
 ```
 
-[Next Lesson 6](./Lesson-6.md)
+[Next Lesson 6: Properties](./Lesson-6.md)

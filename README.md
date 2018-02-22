@@ -1,5 +1,7 @@
 # C# Guide for beginners.
-
+---
+##DATA in all programing languages can be broken down in some form STRINGS, COLLECTION, and OBJECTS FORM.
+---
 ## What is OOP?
 #### OOP stands for "Object-Oriented Programming". It is a Programming methodology based on objects, instead of just functions and procedures. In other words, it’s a programming style which is concepts of class, object and various other concepts like Inheritance, Polymorphism, Abstraction, Encapsulation, etc. There are four principles of OOP:
 1. **Encapsulation**: Encapsulation means that the internal representation of an object in generally hidden from outside of the object's definition. It also leads to data hiding. Main benefits of Encapsulation is that it can reduce system complexity.
@@ -9,4 +11,4 @@
     1. **Overriding** also called run time Polymorphism. For method
     1. **Overloading**, methods is when the complier determines which methods will be executed, and this decision is made when the gets complied.
 #### If you can grasp these four principles, OOP can be breeze for you.
-[Next Start](./defination.md)
+[Next Start: Definition](./definition.md)

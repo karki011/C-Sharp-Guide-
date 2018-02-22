@@ -1,4 +1,5 @@
 # What is C#?
+### C# (pronounced "C Sharp") is a programming language developed by Microsoft.
 
 ### C# is a simple, modern, general-purpose, object-Oriented programming language developed by Microsoft within its .NET initiative.
 
@@ -7,4 +8,4 @@
 2. **Object Oriented, component Oriented, structured languages.**
 3. **Is also a part if .NET Framework.**
 
-[Next Lesson 1](./Lesson-1.md)
+[Next Lesson 1: Variables](./Lesson-1.md)
