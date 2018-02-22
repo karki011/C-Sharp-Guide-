@@ -9,4 +9,4 @@
   1. **Overriding** also called run time Polymorphism. For method
   2. **Overloading**, methods is when the complier determines which methods will be executed, and this decision is made when the gets complied.
 #### If you can grasp these four principles, OOP can be breeze for you.
-[Next Lesson 1](./C-Sharp-Lesson-1.md)
+[Next Lesson 1](./defination.md)
