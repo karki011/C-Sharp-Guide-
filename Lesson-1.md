@@ -4,7 +4,7 @@
 
 
 ### C# is strongly, and  statically-typed language meaning every variable has a type at compile time, and once type is set it cannot change, but its value can be changed.
-###C# also allows **explicit** typing of any variable.
+### C# also allows **explicit** typing of any variable.
 ```
 int myInt = 1;
 float myFloat = 1f;
@@ -17,7 +17,7 @@ double myDouble = 1.75;
 
 ### Type Inference is where you don't have to always explicit specify a type, let complier try to understand the type if variable automatically.
 
-###The keyword _var_ is used to infer the type at compile time.
+### keyword _var_ is used to infer the type at compile time.
 
 ```
 var name = "Subash Karki"; // compile as String.
@@ -101,7 +101,7 @@ class Enumerations
 
 ---
 ### Null and Nullables ---> syntax == ?
-#### null == absence of value. null represents the absence of value: nothing is stored in memory or to disk.
+#### null == absence of value meaning nothing is stored in memory or to disk.
 ```
 bool? isBoolean = true;
 		isBoolean = null;
