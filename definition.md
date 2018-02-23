@@ -19,7 +19,7 @@
 ####  Dynamically typed programming languages do type checking at run-time as opposed to Compile-time. It is not typed safe. Can be more flexible  by allowing programs to generate types and functionality based on run-time data), though at the expense of fewer a priori guarantees. Dynamic typing may result in runtime type errors—that is, at runtime, a value may have an unexpected type, and an operation nonsensical for that type is applied. Fewer complier time. Dynamically typed languages bind the type to the actual value referenced by a variable.
 ---
 
-# What is CLR?
+# What is CLR(Common Language Runtime?
 ### It is the execution engine of .NET Framework where all the .NET Applications runs under supervision of CLR.
 1. Applications which run under the CLR are provided with certain features like:
     * Security
