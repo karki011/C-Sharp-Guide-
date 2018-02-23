@@ -59,7 +59,8 @@
 
 ---
 #  What is the difference between Interface and Abstract Class?
-###
+### An abstract class is only to be sub-classed (inherited from). In other words, it only allows other classes to inherit from it but cannot be instantiated.
+#### An interface is an empty shell, just only the signatures of the methods. The methods do not contain anything. The interface can't do anything. It's just a pattern. An Abstract class is a class which will contains both definition and implementation in it.
 ---
 
 # What is the difference between “continue” and “break” statements in C#?
