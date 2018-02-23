@@ -16,7 +16,7 @@
 
 #### Statically typed programming languages do type checking (the process of verifying and enforcing the constraints of types) at compile-time as opposed to run-time. Statically typed languages binds the type to a variable for its entire scope.
 
-#### Dynamically typed programming languages do type checking at run-time as opposed to Compile-time. It is not typed safe. Can be more flexible  by allowing programs to generate types and functionality based on run-time data), though at the expense of fewer a priori guarantees. Dynamic typing may result in runtime type errors—that is, at runtime, a value may have an unexpected type, and an operation nonsensical for that type is applied. Fewer complier time. Dynamically typed languages bind the type to the actual value referenced by a variable.
+####  Dynamically typed programming languages do type checking at run-time as opposed to Compile-time. It is not typed safe. Can be more flexible  by allowing programs to generate types and functionality based on run-time data), though at the expense of fewer a priori guarantees. Dynamic typing may result in runtime type errors—that is, at runtime, a value may have an unexpected type, and an operation nonsensical for that type is applied. Fewer complier time. Dynamically typed languages bind the type to the actual value referenced by a variable.
 ---
 
 # What is CLR?
