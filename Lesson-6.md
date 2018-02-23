@@ -5,7 +5,10 @@
 * A get property accessor is used to return the property value, and a set property accessor is used to assign a new value
 * Properties can be read-write (they have both a get and a set accessor).
 * Property accessors often consist of single-line statements that just assign or return the result of an expression.
+
+
 `    public string Name => $"{firstName} {lastName}";   `
+
 ```
 using System;
 
@@ -45,6 +48,9 @@ class Program
 ---
 
 ### Interface Properties
+
+#### A language construct that s similar to a class(in term of syntax) but is fundamentally different.
+
 * Properties can be declared on an interface.
 ```
 public interface ISampleInterface
@@ -58,10 +64,11 @@ public interface ISampleInterface
 }
 
 ```
-* interface  can be subclass of another interface
 * little more abstract than class
 * is a blueprint
 * merely requires **implemented** does not care how it is **implementation**.
 * best practice to start by uppercase I
 * benefit conform to multiple interfaces.
 * cannot be private can be internal , public interface
+
+[Next Lesson 7: Generic classes](./generic-classes.md)

@@ -51,12 +51,11 @@ else
 ##### Use a while loop if you need to execute some code until something happens:
 
 ```
-var i = 0;
-
-while (i < 10) // Will execute as long as i < 10
+int counter = 0;
+while (counter < 10)
 {
-    // Increment i each execution
-    i++;
+  Console.WriteLine($"Hello World! The counter is {counter}");
+  counter++;
 }
 
 ```
@@ -65,11 +64,13 @@ while (i < 10) // Will execute as long as i < 10
 ##### execute the scope of the loop at lease once and keeps executing until something happens.
 
 ```
-var i = 1;
+int counter = 0;
 do
 {
-    i++;
-} while (i < 1);
+  Console.WriteLine($"Hello World! The counter is {counter}");
+  counter++;
+} while (counter < 10);
+
 ```
 ---
 ### for
