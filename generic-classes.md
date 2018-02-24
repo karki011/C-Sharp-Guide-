@@ -7,8 +7,7 @@
 3. The most frequently used with collections and the methods that operate on them.
 4. Use generic types to maximize code reuse, type safety, and performance.
 5. Information on the types that are used in a generic data type may be obtained at run-time by using reflection
-
-````
+```
 class TestGenericList
 {
     static void Main()
@@ -30,4 +29,4 @@ class TestGenericList
 }
 
 ```
-[Home](./README.md)                               [
+[Home](./README.md)                             

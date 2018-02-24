@@ -62,4 +62,4 @@ string allNums = string.Join(",", numbers); // allNums equals "1,2,3"
 ### _Stack is used for static memory allocation and Heap for dynamic memory allocation, both stored in the computer's RAM ._
 
 
-[Home](./README.md)                               [[Next Lesson 3: Methods](./Methods.md)
+[Home](./README.md)                               [Next Lesson 3: Methods](./Methods.md)
