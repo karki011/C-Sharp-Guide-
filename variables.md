@@ -112,4 +112,4 @@ bool? isBoolean = true;
 		string myString = "Hello World";
 		myString = null;
 ```
-[Next Lesson 2: Types](./Lesson-2.md)
+[Home](./README.md)                               [Next Lesson 2: Types](./Types.md)

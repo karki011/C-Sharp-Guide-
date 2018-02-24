@@ -124,4 +124,4 @@ public class Animal
 }
 ```
 
-[Next Lesson 6: Properties](./Lesson-6.md)
+[[Home](./README.md)                               Next Lesson 6: Properties](./properties.md)

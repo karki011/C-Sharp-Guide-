@@ -99,4 +99,4 @@
 
 
 
-[Next Lesson 1: Variables](./Lesson-1.md)
+[Home](./README.md)                               [Next Lesson 1: Variables](./variables.md)

@@ -71,4 +71,4 @@ public interface ISampleInterface
 * benefit conform to multiple interfaces.
 * cannot be private can be internal , public interface
 
-[Next Lesson 7: Generic classes](./generic-classes.md)
+[Home](./README.md)                               [Next Lesson 7: Generic classes](./generic-classes.md)
