@@ -9,6 +9,12 @@
 3. **Is also a part if .NET Framework.**
 
 ---
+## What is ORM(object realational mapper)?
+
+### used to convert or plump between  SQL database and C# source code.  Potential trade is to high if the performance of ORM is too high ansd slowing the performance. 
+### Somethings large data set would be helpful to manually than letting ORM do to work with unneccessary computing.
+
+---
 
 # Good to know Information
 ---
@@ -32,7 +38,7 @@
 ---
 
 # What is Object?
-### An object is a concrete entity based on a class, and is sometimes referred to as an instance of a class.
+### An object is a concrete entity based on a class, and is sometimes referred to as an instance of a class. It is instance of object class.
 * "New" keyword is used to create an object.
 * It is a real time object.
  ---
